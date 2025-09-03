@@ -1,4 +1,4 @@
-import CANCELIMAGE from "../assets/cancel.gif"
+import CANCELIMAGE from "../assets/signin.gif"
 import { Link } from "react-router-dom"
 
 const Cancel = () => {
